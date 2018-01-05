@@ -6,5 +6,5 @@
 
 ## Author
 
-* **Shubham Sahu** - *Coding, Logic, Design, and Animation*
-* **R. Priyanka Reddy** - *Animation & Idea*
+* **Shubham Sahu** - *Coding, Logic, Design, and Animation.*
+* **R. Priyanka Reddy** - *Animation & Idea.*
